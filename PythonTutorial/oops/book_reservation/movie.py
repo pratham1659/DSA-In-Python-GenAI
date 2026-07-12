@@ -29,8 +29,8 @@ Everything is packed together inside MovieReservation class.
 ===========================================================
 """
 
-from booking import Booking
-from customer import Customer
+from PythonTutorial.oops.book_reservation.booking import Booking
+from PythonTutorial.oops.book_reservation.customer import Customer
 
 
 class MovieReservation:

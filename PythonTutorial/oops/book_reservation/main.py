@@ -23,7 +23,7 @@ This follows the OOP principle of Separation of Concerns.
 ===========================================================
 """
 
-from movie import MovieReservation
+from PythonTutorial.oops.book_reservation.movie import MovieReservation
 
 
 movie = MovieReservation("Avengers Endgame", 10)
